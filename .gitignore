@@ -1,3 +1,30 @@
+#pycharm
+.idea/
+.DS_Store
+
+__pycache__/
+*.py[cod]
+*$py.class
+
+#Django stuff:
+local_settings.py
+*.sqllite3
+media/
+
+#datavase migrations
+*/migrations/*.py
+!*/migrations/__init__.py
+
+
+
+
+
+#下面是gittee创建仓库自动生成的
+
+
+
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
